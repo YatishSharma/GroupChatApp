@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/Badminton"
+            android:checked="true"
+            android:icon="@drawable/ic_emoticon"
+            android:title="Badminton" />
+        <item
+            android:id="@+id/Basketball"
+            android:icon="@drawable/ic_emoticon"
+            android:title="Basketball" />
+        <item
+            android:id="@+id/Boxing"
+            android:icon="@drawable/ic_emoticon"
+            android:title="Boxing" />
+        <item
+            android:id="@+id/Chess"
+            android:icon="@drawable/ic_emoticon"
+            android:title="Chess" />
+        <item
+            android:id="@+id/Cricket"
+            android:icon="@drawable/ic_emoticon"
+            android:title="Pointer" />
+        <item
+            android:id="@+id/Football"
+            android:icon="@drawable/ic_emoticon"
+            android:title="Arrays" />
+        <item
+            android:id="@+id/Judo"
+            android:icon="@drawable/ic_emoticon"
+            android:title="Judo" />
+        <item
+            android:id="@+id/Swimming"
+            android:icon="@drawable/ic_emoticon"
+            android:title="Swimming" />
+        <item
+            android:id="@+id/Volleyball"
+            android:icon="@drawable/ic_emoticon"
+            android:title="Volleyball" />
+        <item
+            android:id="@+id/Recursion"
+            android:icon="@drawable/ic_emoticon"
+            android:title="Recursion" />
+
+
+    </group>
+
+
+
+</menu>
